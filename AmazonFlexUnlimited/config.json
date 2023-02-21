@@ -1,0 +1,33 @@
+{
+  "username": "mani29jan@yahoo.com",
+  "password": "Manisaini1",
+  "minBlockRate": "",
+  "minPayRatePerHour": "",
+  "arrivalBuffer": 30,
+  "desiredWarehouses": [
+    "9c99f9b5-c659-46fd-b7b4-54116370209e",
+    "d1ed58a3-dfee-40b3-b69e-98c80aef7177",
+    "4d8d38ba-e2de-42a5-a2e1-245fa55180ae",
+    "aeebfd1f-20c7-42a1-83c6-ee2181436068",
+    "10fd9a9c-1c21-4a6e-b590-17a9c8350333"
+  ],
+  "desiredStartTime": "15:00",
+  "desiredEndTime": "21:00",
+  "desiredWeekdays": [
+    "MON",
+    "tue",
+    "Wed",
+    "Thur",
+    "Fri",
+    "Sat",
+    "Sunday"
+  ],
+  "retryLimit": 1800,
+  "refreshInterval": 0.8,
+  "twilioAcctSid": "",
+  "twilioAuthToken": "",
+  "twilioFromNumber": "",
+  "twilioToNumber": "",
+  "refreshToken": "Atnr|EwICIHAvjcyXHllbnXlXYtcpgJxVcOu6tkR_wkW8bHH4hVTInX0kzqxtLE0grJJ4K6L5mUFqk_m2g49yUt_7OIQKdR_brj1qDkcnSqcHpHRovDmTl5PeUeGhBqdi0JjxOr40Rvl-2nXj3g6vvRugvCwpJn6iaHAFqTUlnIECN1KIloqfmAggy9FzP6ZXuPSP6lsMn-TrGcr8Y-Brkn3UiqunK0t7dShrNfa16yZMtf05ye_j5CdyJ3o8mDSJiVaUSSwIBP3YPwBHq-d0N4-8uE6oWcNN",
+  "accessToken": "Atna|EwICID1rXxljY8evFnBuqpV0QlmCC4B75TcwoN8cnKqtBMmzeQiJBB7zwqw9uNaNYjq3oP0DSRqAHmR1nWjghrhKgWoi7JoZOQdZTU-o3MpzA4LHGifQjLrNfIYoy7fd8wee3UWDoLEKIP3DaIjJDns6Ne5i0Tx2QyDj5QJEKGXPjOHDuzqKwsffHjTeLHBaO2y0K_jRotLaSwZV6z5EhE1XxFWL0njh1R90QKlBrpXf8RLQroCMWjHV3SFhtVMHN5Najxmxcw2wWiZzsGXCymwm4RSGGGGlJR-b7SMVgyyppmjSYQ"
+}
